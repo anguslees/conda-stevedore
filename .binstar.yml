@@ -1,0 +1,4 @@
+package: stevedore
+script:
+  - conda build .
+build_targets: conda
